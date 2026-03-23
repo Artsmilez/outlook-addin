@@ -26,6 +26,7 @@
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://artsmilez.github.io/outlook-addin/</AppDomain>
     <!-- Mobile 6 -->
     <!-- <AppDomain>https://abcd-1234.ngrok-free.app</AppDomain> -->
   </AppDomains>
