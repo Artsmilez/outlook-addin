@@ -43,7 +43,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://artsmilez.github.io/outlook-addin/taskpane.html?v=20260408k"/>
+        <SourceLocation DefaultValue="https://artsmilez.github.io/outlook-addin/taskpane.html?v=20260408l"/>
         <!-- Mobile -->
         <!-- <SourceLocation DefaultValue="https://abcd-1234.ngrok-free.app/taskpane.html"/> -->
         <RequestedHeight>250</RequestedHeight>
@@ -160,8 +160,8 @@
       <bt:Image id="Icon.80x80" DefaultValue="https://abcd-1234.ngrok-free.app/assets/AIH-Logo1.png"/> -->
     </bt:Images>
     <bt:Urls>
-      <bt:Url id="Commands.Url" DefaultValue="https://artsmilez.github.io/outlook-addin/commands.html?v=20260408k"/>
-      <bt:Url id="Taskpane.Url" DefaultValue="https://artsmilez.github.io/outlook-addin/taskpane.html?v=20260408k"/>
+      <bt:Url id="Commands.Url" DefaultValue="https://artsmilez.github.io/outlook-addin/commands.html?v=20260408l"/>
+      <bt:Url id="Taskpane.Url" DefaultValue="https://artsmilez.github.io/outlook-addin/taskpane.html?v=20260408l"/>
       
       <!-- Mobile 5 -->
       <!-- <bt:Url id="Commands.Url" DefaultValue="https://abcd-1234.ngrok-free.app/commands.html"/>
